@@ -1,0 +1,6 @@
+{
+  "noImplicitAny": false,
+  "allowJs": true,
+  "sourceMap": true,
+  "skipLibCheck": true
+}
