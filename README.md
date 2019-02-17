@@ -12,6 +12,7 @@ After that is complete, the plan is to create a re-usable template that includes
 5. Client-side prediction to provide responsive controls
 6. Entity interpolation to show other players' movement smoothly
 7. Latency compensation
+8. Speed hack prevention as example of server-side validation
 
 If possible I may add some more "gamey" elements, such as the ability to attack each other. 
 
