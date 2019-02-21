@@ -3,7 +3,7 @@ A template for a multiplayer Phaser 3 game using Typescript, Webpack, node and S
 
 This is a WIP for a starting setup for multiplayer games with Phaser 3 and node. I am working on getting the initial foundation of the template setup. The build process is a bit rough right now but it works. You just have to start 3 different bash tools to compile and serve the project. I will swing back around to this in a little bit and try to clean house and simplify. 
 
-After that is complete, the plan is to create a re-usable template that includes the following, game-wise:
+Right now, the plan is to create a re-usable template that includes the following, game-wise:
 
 1. Authoritative server 
 2. A simple Tiled tilemap to demonstrate server-side tilemap handling with collisions
