@@ -1,7 +1,7 @@
 # Multiplayer-phaser3-typescript
 A template for a multiplayer Phaser 3 game using Typescript, Webpack, node and Socket.io
 
-This is a WIP for a starting setup for multiplayer games with Phaser 3 and node. Right now I am working on the build process because it is a bit of a mess (I had to put notes on how to start it in the package.json file to remember). I am working to get one command to build and watch both the server- and client-side.
+This is a WIP for a starting setup for multiplayer games with Phaser 3 and node. I am working on getting the initial foundation of the template setup. The build process is a bit rough right now but it works. You just have to start 3 different bash tools to compile and serve the project. I will swing back around to this in a little bit and try to clean house and simplify. 
 
 After that is complete, the plan is to create a re-usable template that includes the following, game-wise:
 
